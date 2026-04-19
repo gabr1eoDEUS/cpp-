@@ -1,0 +1,30 @@
+Introdução ao C++:
+
+Aprendizado sobre a estrutura básica de um programa em C++.
+Importância da linguagem na criação de sistemas operacionais e
+softwares como navegadores e jogos.
+
+Objetos e Classes:
+
+Diferença entre objetos e classes: múltiplos objetos de uma mesma
+classe podem armazenar dados diferentes.
+Cada objeto tem seus próprios atributos e valores, mesmo que pertençam
+ao mesmo tipo.
+
+Métodos e Acesso a Atributos:
+
+Uso da notação ponto para acessar atributos e métodos de uma classe.
+Preparação para a próxima aula, onde será abordado como criar
+métodos dentro de uma classe.
+
+Ponteiros e Referências:
+
+O conceito de ponteiros foi introduzido, mostrando como eles podem
+alterar valores em memória.
+Explicação sobre a manipulação de memória e a diferença entre ponteiros
+e variáveis comuns.
+
+Desenvolvimento de Habilidades:
+
+Cada capítulo introduz novos conceitos que serão aplicados em exercícios
+futuros, aumentando as habilidades do aluno em C++.
