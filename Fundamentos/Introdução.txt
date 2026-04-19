@@ -1,0 +1,18 @@
+Nesta aula introdutória, o curso explora a linguagem de programação C++,
+que é uma das mais populares mundialmente.
+O instrutor destaca que C++ combina características de linguagens de alto
+e baixo nível, permitindo eficiência e flexibilidade na programação.
+A linguagem é amplamente utilizada em sistemas operacionais como Windows,
+Linux e Mac, além de ser a base para o desenvolvimento de jogos em consoles
+como PlayStation e Xbox.
+
+O curso pretende ensinar desde conceitos básicos, como a estrutura de um
+programa, até tópicos mais avançados, como orientação a objetos, ponteiros
+e referências.
+Exemplos práticos, como o navegador Chrome e o interpretador JavaScript V8,
+são citados para evidenciar a relevância e eficiência de C++.
+O instrutor enfatiza que C++ é uma excelente escolha para quem deseja se
+aprofundar na programação, oferecendo uma base sólida para a carreira de
+programador.
+A apresentação do curso é didática, visando preparar os alunos para os
+desafios do mercado de trabalho.
