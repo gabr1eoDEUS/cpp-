@@ -1,14 +1,15 @@
 #include <iostream>
 
 // Programa demonstrando operadores de atribuição compostos.
-// Operadores mostrados: +=, -=, *=, /=, &=
+// Operadores mostrados: +=, -=, *=, /=, %=
 // Observações:
 // - Operadores compostos combinam uma operação e atribuição:
 //     x += 10  é equivalente a  x = x + 10
 // - Para tipos inteiros, a divisão (/=) realiza divisão inteira (trunca parte fracionária).
-// - x &= 10 aplica operação bitwise AND e atribui o resultado a x (x = x & 10).
+// - x %= 10 calcula o resto da divisão inteira e atribui o resultado a x (x = x % 10).
 // - Não há verificação adicional de erros (ex.: overflow); este é um exemplo educativo.
-int main(){
+int main()
+{
     int x;
 
     // Solicita e lê um valor inteiro do usuário.
@@ -31,8 +32,10 @@ int main(){
     x /= 10; // equivalente a: x = x / 10
     std::cout << "Value /=: " << x << "\n";
 
-    x &= 10; // equivalente a: x = x & 10
-    std::cout << "Value &=: " << x << "\n";
+    // Resto (módulo) seguido de atribuição: mantém apenas o resto da divisão de x por 10
+    // Ex.: 17 % 10 == 7
+    x %= 10; // equivalente a: x = x % 10
+    std::cout << "Value %=: " << x << "\n";
 
     return 0;
 }
