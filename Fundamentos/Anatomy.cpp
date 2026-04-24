@@ -6,6 +6,7 @@
 int main()
 {
     {
+        std::cout << "oi" << "\n";
         // Bloco local: cria um escopo limitado por chaves.
         // Variáveis declaradas aqui (se houvesse) teriam duração apenas dentro
         // deste bloco e seriam destruídas ao sair do escopo.
